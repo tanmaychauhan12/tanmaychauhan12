@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Competitive Programmer and CSE Graduate 2027 with strong skills in C++, DSA, Problem Solving, Python, Databases, APIs, React, and Node.js, having solved 300+ problems with a 1532 rating on LeetCode and experience in Machine Learning and modern web development.
+Competitive Programmer | C++ Programming Language | DSA | 300P+ and 1532 Rating @LeetCode | Newbie @CodeForces | Problem Solving | Python | Database | Machine Learning | APIs | React | Node.js | CSE Grad’27
 
 
 ## 🌐 Socials:
